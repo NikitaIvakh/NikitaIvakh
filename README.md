@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Header
+[![Header](https://github.com/NikitaIvakh/NikitaIvakh/blob/main/assets/Picture.jpeg)](https://www.linkedin.com/in/nikita-ivakh-83b147263/)
 
 <!--
 **NikitaIvakh/NikitaIvakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
