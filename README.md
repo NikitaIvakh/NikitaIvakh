@@ -54,6 +54,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaIvakh)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaIvakh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaIvakh&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
 
 *Thank you for your attention, and I am happy to engage with you and share my experience in .NET development.*
