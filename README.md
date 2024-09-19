@@ -4,27 +4,6 @@
 ## *Hello everyone! I am a Fullstack Software Developer | .NET | React*
 
 ### Languages and Tools:
-![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C-Sharp&logoColor=47C5FB)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-090909?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-090909?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=097CDB)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jquery&logoColor=0769AD)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=336791)
-![GIT](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F88C00)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-090909?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91)
-
-<br>
-
-### Socials:
-<br/> 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<div id="badges">
-  ## Languages and Tools  
-<div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/ASP.NET_Core"><img src="https://codeopinion.com/wp-content/uploads/2017/06/Bitmap-MEDIUM_ASP.NET-Core-MVC-Logo_2colors_Square_Boxed_RGB.png" height="50"/></a>
@@ -40,7 +19,32 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-</div> 
+
+<br>
+
+### Socials:
+<br/> 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="badges">
+  <a href="https://t.me/Nikita_Ivakh">
+    <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9&logoColor=B4068E" alt="Youtube Badge"/>
+  </a>
+   <a href="https://vk.com/nikita.ivakh">
+    <img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3" alt="Vk"/>
+  </a>
+  <a href="https://www.instagram.com/nikita.ivakh1337/">
+    <img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E" alt="Instagram"/>
+  </a>
+  <a href="https://rabota.by/resume/6a9cf7c9ff0c5c75be0039ed1f32437465506e">
+    <img src="https://img.shields.io/badge/-Rabota.by-090909?style=for-the-badge&logo=rabotaby&logoColor=FF6600" alt="Rabota.by"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nikita-ivakh-83b147263/">
+    <img src="https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+  </a>
+  <a href="https://twitter.com/ivakh_nikita">
+    <img src="https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB" alt="Twitter"/>
+  </a>
 </div>
 </div>
 
