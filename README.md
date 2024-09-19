@@ -48,22 +48,22 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="badges" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://t.me/Nikita_Ivakh" target="_blank">
+  <a href="https://t.me/Nikita_Ivakh" target="_blank" style="text-decoration: none">
     <img style="border: none; outline: none;" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9&logoColor=B4068E" alt="Telegram"/>
   </a>
-   <a href="https://vk.com/nikita.ivakh" target="_blank">
+   <a href="https://vk.com/nikita.ivakh" target="_blank" style="text-decoration: none">
     <img style="border: none; outline: none;" src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3" alt="Vk"/>
   </a>
-  <a href="https://www.instagram.com/nikita.ivakh1337/" target="_blank">
+  <a href="https://www.instagram.com/nikita.ivakh1337/" target="_blank" style="text-decoration: none">
     <img style="border: none; outline: none;" src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E" alt="Instagram"/>
   </a>
-  <a href="https://rabota.by/resume/6a9cf7c9ff0c5c75be0039ed1f32437465506e" target="_blank">
+  <a href="https://rabota.by/resume/6a9cf7c9ff0c5c75be0039ed1f32437465506e" target="_blank" style="text-decoration: none">
     <img style="border: none; outline: none;" src="https://img.shields.io/badge/-Rabota.by-090909?style=for-the-badge&logo=rabotaby&logoColor=FF6600" alt="Rabota.by"/>
   </a>
-  <a href="https://www.linkedin.com/in/nikita-ivakh-83b147263/" target="_blank">
+  <a href="https://www.linkedin.com/in/nikita-ivakh-83b147263/" target="_blank" style="text-decoration: none">
     <img style="border: none; outline: none;" src="https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/ivakh_nikita" target="_blank">
+  <a href="https://twitter.com/ivakh_nikita" target="_blank" style="text-decoration: none">
     <img style="border: none; outline: none;" src="https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB" alt="Twitter"/>
   </a>
 </div>
