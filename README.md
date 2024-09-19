@@ -21,12 +21,12 @@
 <br>
 
 ### Socials:
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="badges" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://t.me/Nikita_Ivakh" target="_blank" style="text-decoration: none">
-    <img style="border: none; outline: none;" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9&logoColor=B4068E" alt="Telegram"/>
-  </a>
+ <a href="https://t.me/Nikita_Ivakh" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9&logoColor=B4068E" alt="Telegram" height="50" /></a>  
    <a href="https://vk.com/nikita.ivakh" target="_blank" style="text-decoration: none">
     <img style="border: none; outline: none;" src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3" alt="Vk"/>
   </a>
