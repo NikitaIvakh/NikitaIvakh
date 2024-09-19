@@ -48,6 +48,8 @@
 </div>
 </div>
 
+![Profile views counter](https://komarev.com/ghpvc/?username=KirillSachkov&&style=flat-square)
+
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikitaIvakh)](https://git.io/streak-stats)
