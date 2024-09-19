@@ -85,4 +85,9 @@
   </a>
 </div>
 
+<br/>  
+
+
+![Profile views counter](https://komarev.com/ghpvc/?username=NikitaIvakh&&style=flat-square)
+
 *Thank you for your attention, and I am happy to engage with you and share my experience in .NET development.*
