@@ -63,9 +63,6 @@
   <a href="https://www.linkedin.com/in/nikita-ivakh-83b147263/" target="_blank" style="text-decoration: none">
     <img style="border: none; outline: none;" src="https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/ivakh_nikita" target="_blank" style="text-decoration: none">
-    <img style="border: none; outline: none;" src="https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB" alt="Twitter"/>
-  </a>
 </div>
 </div>
 
