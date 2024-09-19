@@ -4,7 +4,6 @@
 
 ### Languages and Tools:
 <div align="center">  
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; border: none; outline: none;">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="text-decoration: none">
     <img style="margin: 10px; border: none; outline: none; text-decoration: none" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
   </a>
@@ -41,7 +40,6 @@
   <a href="https://www.docker.com/" target="_blank" style="text-decoration: none">
     <img style="margin: 10px; border: none; outline: none; text-decoration: none" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
   </a>
-</div>
 </div>
 
 <br>
